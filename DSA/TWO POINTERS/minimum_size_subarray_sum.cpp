@@ -21,3 +21,4 @@ int main()
     else
         cout<<"THE LENGTH IS:"<<min_length;
 }
+//test
